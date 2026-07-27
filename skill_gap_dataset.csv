@@ -1,0 +1,25 @@
+Skill_Name,Curriculum_Coverage,Industry_Demand,Job_Frequency,Expert_Importance,Gap_Status
+C Programming,5,3,6,3,Aligned
+Java,5,5,10,5,Aligned
+Python,4,5,10,5,Aligned
+DBMS,5,4,8,4,Aligned
+Operating Systems,5,4,7,4,Aligned
+Computer Networks,5,4,7,4,Aligned
+Software Engineering,4,4,6,4,Aligned
+Data Structures,5,5,10,5,Aligned
+Algorithms,5,5,10,5,Aligned
+SQL,5,5,9,5,Aligned
+HTML/CSS,4,4,8,4,Aligned
+Git,4,5,9,5,Aligned
+ReactJS,2,5,9,5,Gap
+Angular,1,4,6,4,Gap
+Node.js,2,5,9,5,Gap
+Spring Boot,2,5,8,5,Gap
+Docker,1,5,9,5,Gap
+Kubernetes,0,5,8,5,Gap
+AWS Cloud,1,5,10,5,Gap
+Azure Cloud,1,4,7,4,Gap
+DevOps,1,5,9,5,Gap
+CI/CD,1,4,8,4,Gap
+Machine Learning,2,5,9,5,Gap
+Generative AI,1,5,10,5,Gap
